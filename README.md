@@ -59,7 +59,7 @@ This repository tracks top-tier **commercial SaaS DRaaS platforms** ☁️ and p
 
 Open-source DR tools offer sovereign, cost-effective options for virtualized environments, self-hosted infrastructure, and Kubernetes clusters. 💻
 
-| Project / Repo | Key Features & Architecture | Stars |
+| Project / Repo | Key Features & Architecture | GitHub_Stars |
 |----------------|-----------------------------|-------|
 | **[DaliBackup-OSS](https://github.com/daliranas/DaliBackup-OSS)** | **Sovereign, lightweight backup & disaster recovery engine.** Supports **Microsoft Hyper-V** (VSS snapshots, continuous streaming GZip, instant DR), **Proxmox VE** (QEMU VM & LXC via REST API 2.0, native vzdump hook), and **IMAP** email sync. **Zero external database** (embedded SQLite), **AES-256-GCM encryption**, multi-protocol storage (POSIX/NFS, SFTP, FTP), and single Docker command setup. | [![Stars](https://img.shields.io/github/stars/daliranas/DaliBackup-OSS?style=social&color=white)](https://github.com/daliranas/DaliBackup-OSS/stargazers) |
 | **[Plakar](https://github.com/PlakarKorp/plakar)** | **Open standard for secure backup & recovery.** Features end-to-end encryption, client-side deduplication, and cross-platform binaries (Linux, Windows, macOS, BSD). Offers an enterprise **Plakar Control Plane** web interface for centralized management. | [![Stars](https://img.shields.io/github/stars/PlakarKorp/plakar?style=social&color=white)](https://github.com/PlakarKorp/plakar/stargazers) |
